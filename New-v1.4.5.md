@@ -1,0 +1,23 @@
+{
+"Title": "شیلدگرام",
+"Description": "این یک پیام تست از شیلدگرام است.",
+"Link": "https://t.me/Vpn_Shield",
+"ColorWave": "#14acdf",
+"ColorWaveTwo": "#53ddef",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "99",
+"ShowTime": "100",
+"Button": "عضوییییییییت",
+"ButtonCancell": " بعدا ",
+"Closure": "true",
+"Show": "on"
+}
