@@ -19,5 +19,5 @@
 "Button": "عضوییییییییت",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
