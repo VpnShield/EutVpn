@@ -19,7 +19,7 @@
 "Button": " عضویت فوری ",
 "ButtonCancell": "  بعدا  ",
 "Closure": "false",
-"Show": "on"
+"Show": "off"
 }
 
 
