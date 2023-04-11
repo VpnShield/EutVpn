@@ -19,5 +19,5 @@
 "Button": "عضویت اختیاری",
 "ButtonCancell": "",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
