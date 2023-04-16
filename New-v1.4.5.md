@@ -19,5 +19,5 @@
 "Button": " بازدید از کانال ",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
