@@ -1,10 +1,10 @@
 {
-"Title": "بچه ها دلار الان ریزش شدید کرد 😳💵",
-"Description": "قبل از گرون شدن هر چیزی تو ایران اینا خبرشو میدن !!!!!!\n\nسقوط بازار ارز به کانال 30 تومن و  کاهش قیمت ماشین ها 😍❤️\nبدو عضو شو ببین چ خبره 👇🏻",
-"Link": "tg://join?invite=bMIWeO83Ujs3ZWQ0",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "آینده دلار و اقتصاد ایران !",
+"Description" : "- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم قیمت خودرو یا ... زودتر با خبر بشی زودتر عضو کانال شو",
+"Link": "tg://join?invite=zkd_HxqDhgxmNTNk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "1653",
+"MessageID": "283374728",
 "ShowTime": "3",
-"Button": " عضویت سریع ",
-"ButtonCancell": "  ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
